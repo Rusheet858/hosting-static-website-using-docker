@@ -1,4 +1,4 @@
-# hosting-static-website-using-docker-compose
+# hosting-static-website-using-docker
 Download both the index.html file and Dockerfile and save it in a same directory or folder. 
 
 Go to command prompt and change to the directory where the files are stored. Then, run the command:
